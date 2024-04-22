@@ -3,7 +3,7 @@
 Bạn có thể tìm thấy model tôi train và file lưu trọng số của tôi tại đây: https://drive.google.com/drive/folders/1qz3f9lOVA0YQbWfD7xNYEspmnCBbCZxc?usp=drive_link
 ## Sau đó bạn hãy tạo thư mục weight trong thư mục model và thêm file weight như dưới đây
 |_ root/  
-|   |_ config/  
+|  	|_ config/  
 |       |_ catdog.cfg.py  
 |       |_ logging.cfg-pУ  
 |   |_ logs/  
