@@ -1,0 +1,69 @@
+2024-04-17 16:14:08,376 - D:\ML - FastAPI\root\model\catdog_predictor.py - INFO - Starting Model Serving
+2024-04-17 16:14:10,625 - D:\ML - FastAPI\root\model\catdog_predictor.py - ERROR - Load model failed
+2024-04-17 16:14:10,625 - D:\ML - FastAPI\root\model\catdog_predictor.py - ERROR - Error: [Errno 2] No such file or directory: 'D:\\ML - FastAPI\\root\\model\\weights\\catdog_weights.pt'
+2024-04-17 16:14:28,701 - D:\ML - FastAPI\root\model\catdog_predictor.py - INFO - Starting Model Serving
+2024-04-17 16:14:28,933 - D:\ML - FastAPI\root\model\catdog_predictor.py - ERROR - Load model failed
+2024-04-17 16:14:28,933 - D:\ML - FastAPI\root\model\catdog_predictor.py - ERROR - Error: [Errno 2] No such file or directory: 'D:\\ML - FastAPI\\root\\model\\weights\\catdog_weights.pt'
+2024-04-17 16:15:40,863 - D:\ML - FastAPI\root\model\catdog_predictor.py - INFO - Starting Model Serving
+2024-04-17 16:15:41,031 - D:\ML - FastAPI\root\model\catdog_predictor.py - ERROR - Load model failed
+2024-04-17 16:15:41,031 - D:\ML - FastAPI\root\model\catdog_predictor.py - ERROR - Error: [Errno 2] No such file or directory: 'D:\\ML - FastAPI\\root\\model\\weights\\catdog_weights.pt'
+2024-04-17 16:16:08,831 - D:\ML - FastAPI\root\model\catdog_predictor.py - INFO - Starting Model Serving
+2024-04-17 16:16:09,050 - D:\ML - FastAPI\root\model\catdog_predictor.py - ERROR - Load model failed
+2024-04-17 16:16:09,050 - D:\ML - FastAPI\root\model\catdog_predictor.py - ERROR - Error: [Errno 2] No such file or directory: 'D:\\ML - FastAPI\\root\\model\\weights\\catdog_weights.pt'
+2024-04-17 16:18:04,731 - D:\ML - FastAPI\root\model\catdog_predictor.py - INFO - Starting Model Serving
+2024-04-17 16:18:04,923 - D:\ML - FastAPI\root\model\catdog_predictor.py - ERROR - Load model failed
+2024-04-17 16:18:04,923 - D:\ML - FastAPI\root\model\catdog_predictor.py - ERROR - Error: [Errno 2] No such file or directory: 'D:\\ML - FastAPI\\root\\model\\weights\\catdog_weights.pt'
+2024-04-17 16:18:27,821 - D:\ML - FastAPI\root\model\catdog_predictor.py - INFO - Starting Model Serving
+2024-04-17 16:18:47,821 - D:\ML - FastAPI\root\model\catdog_predictor.py - INFO - Starting Model Serving
+2024-04-17 16:18:48,072 - D:\ML - FastAPI\root\model\catdog_predictor.py - ERROR - Load model failed
+2024-04-17 16:18:48,072 - D:\ML - FastAPI\root\model\catdog_predictor.py - ERROR - Error: [Errno 2] No such file or directory: 'D:\\ML - FastAPI\\root\\model\\weights\\catdog_weights.pt'
+2024-04-17 16:19:30,891 - D:\ML - FastAPI\root\model\catdog_predictor.py - INFO - Starting Model Serving
+2024-04-17 16:19:31,175 - D:\ML - FastAPI\root\model\catdog_predictor.py - ERROR - Load model failed
+2024-04-17 16:19:31,175 - D:\ML - FastAPI\root\model\catdog_predictor.py - ERROR - Error: [Errno 2] No such file or directory: 'D:\\ML - FastAPI\\root\\model\\weights\\catdog_weights.pt'
+2024-04-17 16:20:03,701 - D:\ML - FastAPI\root\model\catdog_predictor.py - INFO - Starting Model Serving
+2024-04-17 16:20:04,034 - D:\ML - FastAPI\root\model\catdog_predictor.py - ERROR - Load model failed
+2024-04-17 16:20:04,034 - D:\ML - FastAPI\root\model\catdog_predictor.py - ERROR - Error: [Errno 2] No such file or directory: 'D:\\ML - FastAPI\\root\\model\\weights\\catdog_weights.pt'
+2024-04-17 16:21:15,766 - D:\ML - FastAPI\root\model\catdog_predictor.py - INFO - Starting Model Serving
+2024-04-17 16:21:16,083 - D:\ML - FastAPI\root\model\catdog_predictor.py - ERROR - Load model failed
+2024-04-17 16:21:16,083 - D:\ML - FastAPI\root\model\catdog_predictor.py - ERROR - Error: [Errno 2] No such file or directory: 'D:\\ML - FastAPI\\root\\model\\weights\\catdog_weights.pt'
+2024-04-17 16:22:56,963 - D:\ML - FastAPI\root\model\catdog_predictor.py - INFO - Starting Model Serving
+2024-04-17 16:22:57,153 - D:\ML - FastAPI\root\model\catdog_predictor.py - ERROR - Load model failed
+2024-04-17 16:22:57,153 - D:\ML - FastAPI\root\model\catdog_predictor.py - ERROR - Error: [Errno 2] No such file or directory: 'D:\\ML - FastAPI\\root\\model\\weights\\catdog_weights.pt'
+2024-04-17 16:34:58,116 - D:\ML - FastAPI\root\model\catdog_predictor.py - INFO - Starting Model Serving
+2024-04-17 16:34:58,116 - D:\ML - FastAPI\root\model\catdog_predictor.py - ERROR - Load model failed
+2024-04-17 16:34:58,116 - D:\ML - FastAPI\root\model\catdog_predictor.py - ERROR - Error: name 'CatDogDataConfig' is not defined
+2024-04-17 16:35:38,533 - D:\ML - FastAPI\root\model\catdog_predictor.py - INFO - Starting Model Serving
+2024-04-17 16:35:38,533 - D:\ML - FastAPI\root\model\catdog_predictor.py - ERROR - Load model failed
+2024-04-17 16:35:38,533 - D:\ML - FastAPI\root\model\catdog_predictor.py - ERROR - Error: name 'CatDogDataConfig' is not defined
+2024-04-17 16:36:19,705 - D:\ML - FastAPI\root\model\catdog_predictor.py - INFO - Starting Model Serving
+2024-04-17 16:36:20,141 - D:\ML - FastAPI\root\model\catdog_predictor.py - ERROR - Load model failed
+2024-04-17 16:36:20,141 - D:\ML - FastAPI\root\model\catdog_predictor.py - ERROR - Error: [Errno 2] No such file or directory: 'D:\\ML - FastAPI\\root\\model\\weights\\catdog_weights.pt'
+2024-04-17 16:38:08,811 - D:\ML - FastAPI\root\model\catdog_predictor.py - INFO - Starting Model Serving
+2024-04-17 16:38:09,151 - D:\ML - FastAPI\root\model\catdog_predictor.py - ERROR - Load model failed
+2024-04-17 16:38:09,151 - D:\ML - FastAPI\root\model\catdog_predictor.py - ERROR - Error: [Errno 2] No such file or directory: 'D:\\ML - FastAPI\\root\\model\\weights\\catdog_weights.pt'
+2024-04-17 16:38:37,352 - D:\ML - FastAPI\root\model\catdog_predictor.py - INFO - Starting Model Serving
+2024-04-17 16:38:38,211 - D:\ML - FastAPI\root\model\catdog_predictor.py - ERROR - Load model failed
+2024-04-17 16:38:38,211 - D:\ML - FastAPI\root\model\catdog_predictor.py - ERROR - Error: [Errno 2] No such file or directory: 'D:\\ML - FastAPI\\root\\model\\weights\\catdog_weights.pt'
+2024-04-17 16:39:09,541 - D:\ML - FastAPI\root\model\catdog_predictor.py - INFO - Starting Model Serving
+2024-04-17 16:39:09,901 - D:\ML - FastAPI\root\model\catdog_predictor.py - ERROR - Load model failed
+2024-04-17 16:39:09,901 - D:\ML - FastAPI\root\model\catdog_predictor.py - ERROR - Error: [Errno 2] No such file or directory: 'D:\\ML - FastAPI\\root\\model\\weights\\catdog_weights.pt'
+2024-04-17 16:40:35,783 - D:\ML - FastAPI\root\model\catdog_predictor.py - INFO - Starting Model Serving
+2024-04-17 16:40:36,297 - D:\ML - FastAPI\root\model\catdog_predictor.py - ERROR - Load model failed
+2024-04-17 16:40:36,297 - D:\ML - FastAPI\root\model\catdog_predictor.py - ERROR - Error: [Errno 2] No such file or directory: 'D:\\ML - FastAPI\\root\\model\\weights\\catdog_weights.pt'
+2024-04-17 16:40:45,071 - D:\ML - FastAPI\root\model\catdog_predictor.py - INFO - Predictor name: resnet18
+2024-04-17 16:40:45,071 - D:\ML - FastAPI\root\model\catdog_predictor.py - INFO - Predicted Prob: 0.851624 - Predicted ID : 0 - Predicted Class: Cat
+2024-04-17 16:42:43,416 - D:\ML - FastAPI\root\model\catdog_predictor.py - INFO - Predictor name: resnet18
+2024-04-17 16:42:43,422 - D:\ML - FastAPI\root\model\catdog_predictor.py - INFO - Predicted Prob: 0.851624 - Predicted ID : 0 - Predicted Class: Cat
+2024-04-17 16:42:58,532 - D:\ML - FastAPI\root\model\catdog_predictor.py - INFO - Predictor name: resnet18
+2024-04-17 16:42:58,542 - D:\ML - FastAPI\root\model\catdog_predictor.py - INFO - Predicted Prob: 0.840953 - Predicted ID : 0 - Predicted Class: Cat
+2024-04-17 16:43:15,012 - D:\ML - FastAPI\root\model\catdog_predictor.py - INFO - Predictor name: resnet18
+2024-04-17 16:43:15,012 - D:\ML - FastAPI\root\model\catdog_predictor.py - INFO - Predicted Prob: 0.850398 - Predicted ID : 0 - Predicted Class: Cat
+2024-04-17 16:43:24,581 - D:\ML - FastAPI\root\model\catdog_predictor.py - INFO - Predictor name: resnet18
+2024-04-17 16:43:24,581 - D:\ML - FastAPI\root\model\catdog_predictor.py - INFO - Predicted Prob: 0.840953 - Predicted ID : 0 - Predicted Class: Cat
+2024-04-17 16:43:35,137 - D:\ML - FastAPI\root\model\catdog_predictor.py - INFO - Predictor name: resnet18
+2024-04-17 16:43:35,137 - D:\ML - FastAPI\root\model\catdog_predictor.py - INFO - Predicted Prob: 0.851624 - Predicted ID : 0 - Predicted Class: Cat
+2024-04-17 16:45:42,491 - D:\ML - FastAPI\root\model\catdog_predictor.py - INFO - Starting Model Serving
+2024-04-17 16:45:42,747 - D:\ML - FastAPI\root\model\catdog_predictor.py - ERROR - Load model failed
+2024-04-17 16:45:42,747 - D:\ML - FastAPI\root\model\catdog_predictor.py - ERROR - Error: [Errno 2] No such file or directory: 'D:\\ML - FastAPI\\root\\model\\weights\\catdog_weights.pt'
+2024-04-17 16:46:01,437 - D:\ML - FastAPI\root\model\catdog_predictor.py - INFO - Predictor name: resnet18
+2024-04-17 16:46:01,437 - D:\ML - FastAPI\root\model\catdog_predictor.py - INFO - Predicted Prob: 0.722233 - Predicted ID : 1 - Predicted Class: dog
