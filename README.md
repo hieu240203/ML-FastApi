@@ -5,3 +5,4 @@ Bạn có thể tìm thấy model tôi train và file lưu trọng số của t�
 pip install -r requirements .txt
 ### Run with python
 python server .py
+### Result
